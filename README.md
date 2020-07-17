@@ -8,4 +8,4 @@ Contributors: Eli Kindomba, Francis Iloeje, Haoyee Yeong, Sunday Folorunso, Sham
 
 Questions and comments: Jing Zhang, jz29@iupui.edu
 
-Warning: this ventilator prototype has not been approved by FDA or any agencies. Please use the information as your risks and discretion. 
+Warning: this ventilator prototype has not been approved by FDA or any agencies. Please use the information as your own risk and discretion. 
