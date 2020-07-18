@@ -9,7 +9,7 @@ A mechanical ventilator is a machine that assists or replaces spontaneous breath
 ![Image of Ventilator](https://github.com/jzhang73/Ventilator-for-COVID-19/blob/master/Ventilator_anmimations_photos/Ventilator-CAD-model-animation.gif)
 
 **Contributors: Eli Kindomba, Francis Iloeje, Haoyee Yeong, Sunday Folorunso, Yafeng Li, Jing Zhang**
-
 **Questions and comments: Jing Zhang, jz29@iupui.edu**
+Acknowledgment: IUPUI Multidisciplinary Undergraduate Research Institute (MURI)
 
-**Warning: This ventilator prototype has not been approved by FDA or any agencies. Please use the information as your own risk and discretion.**
+**Warning: This ventilator prototype has not been approved by FDA or any other agencies. It may have design flaws that introduce safety risks.**
