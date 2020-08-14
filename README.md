@@ -1,4 +1,4 @@
-# Ventilator-for-COVID-19
+# ProtoVent - Ventilator-for-COVID-19
 
 **Open source ventilator designs for patients with COVID-19 ©Indiana University - Purdue University Indianapolis (IUPUI), July 2020**
 
